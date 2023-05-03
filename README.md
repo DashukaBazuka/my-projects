@@ -24,3 +24,16 @@
 **Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/business_indicators_analysis/business_indicators_analysis_project_github.ipynb
 
 **Используемые библиотеки:** pandas, numpy, datetime, matplotlib.
+
+## Принятие решений в бизнесе
+
+Отдел маркетинга крупного интернет-магазина совместно с аналитиком подготовили список гипотез для увеличения выручки.
+
+**Цели исследования:**
+- приоритизировать гипотезы фреймворком ICE
+- запустить A/B-тест
+- проанализировать результаты A/B-теста. 
+
+**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/business_decision_making/business_decision_making_project%20_github.ipynb
+
+**Используемые библиотеки:** pandas, scipy.stats, datetime, numpy, matplotlib.pyplot.
