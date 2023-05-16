@@ -37,3 +37,13 @@
 **Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/business_decision_making/business_decision_making_project%20_github.ipynb
 
 **Используемые библиотеки:** pandas, scipy.stats, datetime, numpy, matplotlib.pyplot.
+
+## Событийная аналитика
+
+Дизайнеры приложения по продаже продуктов питания пришли с идеей замены шрифтов во всём приложении. Но менеджеры не хотят рисковать, так как подобные изменения могли бы привести к снижению выручки. Было принято решение провести A/A/B-тестирование. Пользователей поделили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми.
+
+**Цель исследования:** выяснить, повлияло ли изменение шрифта на поведение пользователей и, как следствие, на конверсию шагов воронки.
+
+**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/event_analytics/event_analytics_project_github.ipynb
+
+**Используемые библиотеки:** pandas, scipy.stats, datetime, numpy, math, matplotlib.pyplot.
