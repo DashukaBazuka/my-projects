@@ -6,7 +6,7 @@
 
 **Цель проекта:** необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. На основе закономерностей составить портреты типичных пользователей разных регионов.
 
-**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/games_sales_research/games_project_github.ipynb
+**Ссылка:** [Исследование продаж компьютерных игр](https://github.com/DashukaBazuka/my-projects/blob/main/games_sales_research/games_project_github.ipynb)
 
 **Используемые библиотеки:** pandas, matplotlib, seaborn, scipy.
 
@@ -21,7 +21,7 @@
 - когда расходы на привлечение клиента окупаются
 - какие факторы мешают привлечению клиентов.
 
-**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/business_indicators_analysis/business_indicators_analysis_project_github.ipynb
+**Ссылка:** [Анализ бизнес-показателей](https://github.com/DashukaBazuka/my-projects/blob/main/business_indicators_analysis/business_indicators_analysis_project_github.ipynb)
 
 **Используемые библиотеки:** pandas, numpy, datetime, matplotlib.
 
@@ -34,7 +34,7 @@
 - запустить A/B-тест
 - проанализировать результаты A/B-теста. 
 
-**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/business_decision_making/business_decision_making_project%20_github.ipynb
+**Ссылка:** [Принятие решений в бизнесе](https://github.com/DashukaBazuka/my-projects/blob/main/business_decision_making/business_decision_making_project%20_github.ipynb)
 
 **Используемые библиотеки:** pandas, scipy.stats, datetime, numpy, matplotlib.pyplot.
 
@@ -44,6 +44,6 @@
 
 **Цель исследования:** выяснить, повлияло ли изменение шрифта на поведение пользователей и, как следствие, на конверсию шагов воронки.
 
-**Ссылка:** https://github.com/DashukaBazuka/my-projects/blob/main/event_analytics/event_analytics_project_github.ipynb
+**Ссылка:** [Событийная аналитика](https://github.com/DashukaBazuka/my-projects/blob/main/event_analytics/event_analytics_project_github.ipynb)
 
 **Используемые библиотеки:** pandas, scipy.stats, datetime, numpy, math, matplotlib.pyplot.
